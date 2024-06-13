@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
         padding: 15,
         elevation: 12,
         borderRadius: 7,
-        backgroundColor: '#000000c0',
+        backgroundColor: '#d1e4e0c0',
         borderWidth: 2,
         borderColor: 'white',
         marginVertical: 5,
@@ -14,12 +14,12 @@ export const styles = StyleSheet.create({
         alignItems: 'center'
     },
     itemToBuy: {
-        color: '#fff',
+        color: '#1f5146',
         fontSize: 24,
         textDecorationLine: 'none'
     },
     itemBought: {
-        color: '#fff',
+        color: '#1f5146',
         fontSize: 24,
         textDecorationLine: 'line-through'
     },

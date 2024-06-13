@@ -1,6 +1,6 @@
 git config --global user.name nickicn
 git config --global user.email nicolelopes0008@gmail.com
 
-cd demetersList
+cd myTaskList
 npm i
 npx expo start --localhost --android
